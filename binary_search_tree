@@ -1,0 +1,7 @@
+[7,5,1,8,3,6,0,9,4,2]
+root 4'tür
+Sol: 0,1,2,3      Sağ:5,6,7,8,9
+Root 2'dir          Root 7'dir
+Sol:0,1 Sağ:3     Sol:5,6  Sağ:8,9
+Root 1'dir       Root:5'tir.    Root 8'Dir 
+Sol:0             Sağ:6         Sağ:9
